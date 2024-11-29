@@ -16,9 +16,10 @@
 - **Others:** Scrum methodology, Quality Management, Technical Documentation
 
 ### Academic Background:
-- **Master’s in Medical Physics**, Balseiro Institute (2017-2019)
-- **BSc in Physics**, National University of Cuyo (2009-2015)
-- **Python Programmer**, TokioSchool (2021-2023)
+- **Python Programmer**, TokioSchool 
+- **Master’s in Medical Physics** 
+- **BSc in Physics**
+
 
 ---
 
