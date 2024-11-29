@@ -1,48 +1,72 @@
-# 👋 Hi, I’m @ProfiliF
-- 👀 I’m interested in software development, data science, and the application of Python in real-world projects.
-- 🌱 I’m currently learning advanced Python libraries and frameworks, including Django for web development and Flask for microservices.
-- 💞️ I’m looking to collaborate on projects involving data analysis, automation, and software tools to improve operational efficiency.
-- 📫 You can reach me at fprofili@outlook.com or connect with me on [LinkedIn](https://linkedin.com/in/franco-profili).
-- 😄 Pronouns: He/Him
-- ⚡ I have a passion for both coding and teaching physics!
+# 👋 Hello, I'm @ProfiliF
 
----
+## About Me
 
-### Skills:
-- **Programming:** Python, SQL, Bash
-- **Data Analysis:** NumPy, Pandas, Matplotlib
-- **Software Development:** Django, Flask, REST APIs
-- **Databases:** SQL, MS Access, SQLite
-- **Others:** Scrum methodology, Quality Management, Technical Documentation
+I am a software developer and data scientist with a strong background in physics. I have a passion for applying Python to solve real-world problems and improve operational efficiency through automation and data analysis.
 
-### Academic Background:
-- **Python Programmer**, TokioSchool 
-- **Master’s in Medical Physics** 
-- **BSc in Physics**
+## Interests
 
+- **Software Development**
+- **Data Science**
+- **Application of Python in Real-World Projects**
 
----
+## Currently Learning
 
-### Repositories:
+I am expanding my expertise in advanced Python libraries and frameworks, including:
 
-#### 1. **Stock Management System**
-A desktop application developed in Python that manages inventory and generates insightful reports for businesses. The tool leverages data analysis libraries such as NumPy and Pandas, making it highly efficient for managing stock at restaurants and retail outlets.
-- **Technologies:** Python, NumPy, Pandas, MS Excel
+- **Django** for robust web development
+- **Flask** for building microservices
 
-#### 2. **Restaurant Data Analysis**
-A demo project showcasing my skills in Python for automating report generation based on restaurant sales data. This project emphasizes data cleaning, processing, and visualization, making it useful for business insights.
-- **Technologies:** Python, Pandas, Matplotlib
+## Collaboration
 
-#### 3. **Web Application: Food Ordering System (Django)**
-A Django-based web app that simulates an online food ordering system. This project highlights my ability to integrate front-end and back-end systems using Django.
-- **Technologies:** Django, SQLite, HTML/CSS
+I am interested in collaborating on projects involving:
 
-#### 4. **Personal Portfolio Website**
-A demo site built using Flask to showcase my programming projects and experience.
-- **Technologies:** Flask, HTML/CSS, SQLite
+- **Data Analysis**
+- **Automation**
+- **Software Tools Development**
 
----
+## Skills
 
-### How to Reach Me:
-- **Email:** fprofili@outlook.com
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/franco-profili)
+- **Programming Languages**: Python, SQL, Bash
+- **Data Analysis Tools**: NumPy, Pandas, Matplotlib
+- **Frameworks**: Django, Flask, REST APIs
+- **Databases**: SQL, MS Access, SQLite
+- **Other Skills**: Scrum Methodology, Quality Management, Technical Documentation
+
+## Academic Background
+
+- **Python Programmer Certification**, TokioSchool
+- **Master’s Degree in Medical Physics**
+- **Bachelor of Science in Physics**
+
+## Projects
+
+### 1. Stock Management System
+
+A Python-based desktop application for inventory management that generates insightful business reports. Utilizing NumPy and Pandas, this tool efficiently manages stock for restaurants and retail outlets.
+
+- **Technologies**: Python, NumPy, Pandas, MS Excel
+
+### 2. Restaurant Data Analysis
+
+A demonstration project showcasing automated report generation based on restaurant sales data. Emphasizing data cleaning, processing, and visualization, it provides valuable business insights.
+
+- **Technologies**: Python, Pandas, Matplotlib
+
+### 3. Food Ordering System (Django Web Application)
+
+A web application simulating an online food ordering system, developed using Django. This project highlights my ability to integrate front-end and back-end technologies.
+
+- **Technologies**: Django, SQLite, HTML/CSS
+
+### 4. Personal Portfolio Website
+
+A personal portfolio site built with Flask to showcase my programming projects and professional experience.
+
+- **Technologies**: Flask, HTML/CSS, SQLite
+
+## Contact Information
+
+- **Email**: [fprofili@outlook.com](mailto:fprofili@outlook.com)
+- **LinkedIn**: [[linkedin.com/in/fprofili/](https://www.linkedin.com/in/fprofili/)](#)
+- **Pronouns**: He/Him
