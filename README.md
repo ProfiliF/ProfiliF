@@ -68,5 +68,5 @@ A personal portfolio site built with Flask to showcase my programming projects a
 ## Contact Information
 
 - **Email**: [fprofili@outlook.com](mailto:fprofili@outlook.com)
-- **LinkedIn**: [[linkedin.com/in/fprofili/](https://www.linkedin.com/in/fprofili/)](#)
+- **LinkedIn**: [linkedin.com/in/fprofili/](https://www.linkedin.com/in/fprofili/)
 - **Pronouns**: He/Him
